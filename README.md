@@ -1,6 +1,5 @@
 # Smart-Contactless-Attendance-System
 
-# Smart Contactless Attendance System
 
 ## 📌 Overview
 
